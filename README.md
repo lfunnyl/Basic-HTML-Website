@@ -9,7 +9,7 @@ You can use it as a starting point for your own developer profile, resume, or pe
 > [https://github.com/roadmap-sh/basic-html-website](https://github.com/roadmap-sh/basic-html-website)  
 >  
 > For more details and instructions, see:  
-> [https://roadmap.sh/projects/basic-html-website](https://roadmap.sh/projects/basic-html-website)
+> [https://roadmap.sh/projects/basic-html-website](https://roadmap.sh/projects/portfolio-website)
 
 ## Features
 
